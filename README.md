@@ -1,5 +1,7 @@
 # isolve — mock UI
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/abdulshhhh/sih-2nd-ps)
+
 A frontend demo for the [isolve](../) LP/MILP solver engine. It looks and behaves like a
 finished optimization SaaS product — problem setup, a live solver run with progress and a
 convergence chart, a results dashboard, and run history — but **there is no backend**. Every
